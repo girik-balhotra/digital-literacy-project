@@ -2,9 +2,10 @@
 
 ## 👤 Student Details
 - Name: Girik Balhotra  
-- Registration Number: Your Reg No.  
-- Branch: Your Branch  
-- Year: 1st Year  
+- Registration Number: 25BAI10197.  
+- Branch: B.tech ai and ml.  
+- Year: 1st Year
+- VIT BHOPAL
 
 ---
 
